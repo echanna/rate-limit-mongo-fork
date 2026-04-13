@@ -1,4 +1,5 @@
-# Strictly for testing purposes
+# Strictly for testing purposes!
+# Not an official product!
 
 # Rate Limit Mongo
 
